@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# expense-tracker
+Expense Tracker built using React to manage daily expenses. Users can add and delete expenses, with total amount calculated automatically. Implemented using useState, controlled inputs, and array methods like map, filter, and reduce.
+>>>>>>> edeba37f6aee67fc370230e0a636dd2b8529f0f0
